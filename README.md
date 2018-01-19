@@ -5,6 +5,7 @@ A list of high quality codewars.com katas
 
 ## 7 Kyu
 * [Hop Accross](https://www.codewars.com/kata/hop-across): Cross a river jumping through stones, then return the same way.
+* [Summing a number's digits](https://www.codewars.com/kata/summing-a-numbers-digits): Sum the digits of a number
 
 ## 6 Kyu
 * [Selective Array Reversing](https://www.codewars.com/kata/selective-array-reversing): Iteratively reverse sub-sections of an array.
