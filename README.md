@@ -7,6 +7,7 @@ A list of high quality codewars.com katas
 * [Hop Accross](https://www.codewars.com/kata/hop-across): Cross a river jumping through stones, then return the same way.
 
 ## 6 Kyu
+* [Selective Array Reversing](https://www.codewars.com/kata/selective-array-reversing): Iteratively reverse sub-sections of an array.
 
 ## 5 Kyu
 * [Blackjack Scorer](https://www.codewars.com/kata/blackjack-scorer): For a given Blackjack hand, calculate its score.
