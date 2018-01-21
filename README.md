@@ -2,6 +2,7 @@
 A list of high quality codewars.com katas
 
 ## 8 Kyu
+* [Generate Range of Integers](https://www.codewars.com/kata/55eca815d0d20962e1000106): Generate an array of integers based on a given range and step increment.
 
 ## 7 Kyu
 * [Hop Accross](https://www.codewars.com/kata/hop-across): Cross a river jumping through stones, then return the same way.
