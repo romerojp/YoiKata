@@ -2,6 +2,7 @@
 A list of high quality codewars.com katas
 
 ## 8 Kyu
+* [Cat years, Dog years](https://www.codewars.com/kata/cat-years-dog-years): Compute how many cat and dog years a given human years value represents.
 * [Generate Range of Integers](https://www.codewars.com/kata/55eca815d0d20962e1000106): Generate an array of integers based on a given range and step increment.
 
 ## 7 Kyu
