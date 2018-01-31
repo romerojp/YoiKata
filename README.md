@@ -12,7 +12,7 @@ A list of high quality codewars.com katas
 
 ## 6 Kyu
 * [Selective Array Reversing](https://www.codewars.com/kata/selective-array-reversing): Iteratively reverse sub-sections of an array.
-* [Dumbphone Keypads](https://www.codewars.com/kata/dumbphone-keypads): Given an input stream, translate phone number taps to a message.
+* [Dumbphone Keypads](https://www.codewars.com/kata/dumbphone-keypads): Given an input message, translate it to phone number taps.
 * [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001): Reverse only the words that are more than 5 letters long in a string.
 
 ## 5 Kyu
