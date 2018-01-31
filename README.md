@@ -8,7 +8,8 @@ A list of high quality codewars.com katas
 ## 7 Kyu
 * [Hop Accross](https://www.codewars.com/kata/hop-across): Cross a river jumping through stones, then return the same way.
 * [Summing a number's digits](https://www.codewars.com/kata/summing-a-numbers-digits): Sum the digits of a number.
-* [Elevator Distance](https://www.codewars.com/kata/elevator-distance): Find the total number of floors traveled in an elevator. 
+* [Elevator Distance](https://www.codewars.com/kata/elevator-distance): Find the total number of floors traveled in an elevator.
+* [Get the Middle Character](http://www.codewars.com/kata/get-the-middle-character/): Output the middle letter of a word.
 
 ## 6 Kyu
 * [Selective Array Reversing](https://www.codewars.com/kata/selective-array-reversing): Iteratively reverse sub-sections of an array.
