@@ -17,3 +17,6 @@ A list of high quality codewars.com katas
 
 ## 5 Kyu
 * [Blackjack Scorer](https://www.codewars.com/kata/blackjack-scorer): For a given Blackjack hand, calculate its score.
+
+## 4 Kyu
+* [Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9/): Find the value of `?` in expressions like `?+?=2`
