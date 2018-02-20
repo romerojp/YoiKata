@@ -5,6 +5,7 @@ A list of high quality codewars.com katas
 * [Five without numbers](https://www.codewars.com/kata/59441520102eaa25260000bf): Write a function that always returns 5 without using numbers or arithmetic operators.
 * [Cat years, Dog years](https://www.codewars.com/kata/cat-years-dog-years): Compute how many cat and dog years a given human years value represents.
 * [Generate Range of Integers](https://www.codewars.com/kata/55eca815d0d20962e1000106): Generate an array of integers based on a given range and step increment.
+* [To square (root) or not to square (root)](https://www.codewars.com/kata/to-square-root-or-not-to-square-root): Process an array by deciding to square or not each number.
 
 ## 7 Kyu
 * [Hop Accross](https://www.codewars.com/kata/hop-across): Cross a river jumping through stones, then return the same way.
