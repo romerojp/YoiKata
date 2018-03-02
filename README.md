@@ -20,6 +20,7 @@ A list of high quality codewars.com katas
 * [Dumbphone Keypads](https://www.codewars.com/kata/dumbphone-keypads): Given an input message, translate it to phone number taps.
 * [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001): Reverse only the words that are more than 5 letters long in a string.
 * [Numbers of Letters of Numbers](https://www.codewars.com/kata/numbers-of-letters-of-numbers): Count the number of characters in a spelled-out number until they match
+* [Clock in Mirror](https://www.codewars.com/kata/56548dad6dae7b8756000037): Figure out what the time is through a clock reflection in a mirror.
 
 ## 5 Kyu
 * [Blackjack Scorer](https://www.codewars.com/kata/blackjack-scorer): For a given Blackjack hand, calculate its score.
